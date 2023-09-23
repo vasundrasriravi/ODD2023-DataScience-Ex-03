@@ -74,6 +74,13 @@ df.kurtosis()
 ![WhatsApp Image 2023-09-23 at 9 00 46 AM](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/7c9c25c8-4f04-4e0d-84c4-dafd84a52bc4)
 ![WhatsApp Image 2023-09-23 at 9 00 46 AM (1)](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/7e02bb0c-4813-4ea5-8bb6-3332bf799211)
 ![WhatsApp Image 2023-09-23 at 9 00 48 AM (1)](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/7568ebe5-631c-4643-b7b0-2f917796bd80)
+![box](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/edc43ca3-d82c-4d2f-a5b3-b76cf54ff030)
+![count](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/5b14bfe8-527f-4758-b553-817792526d89)
+![dist](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/c8ebc3f7-0e19-4442-841d-990e793ca966)
+![hist](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/1bf72c57-337f-4a0b-9b33-06ce2e38067f)
+![skew](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/152ccd61-f3c5-4f47-894d-0bf302b1d8bc)
 
+## RESULT:
+Hence the univariate analysis is verified.
 
 
