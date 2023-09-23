@@ -69,7 +69,6 @@ df.kurtosis()
 
 ## Diabetes.csv
 ![WhatsApp Image 2023-09-23 at 9 00 49 AM](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/4b774b1d-7cd8-42fe-819f-1c26696d5548)
-![WhatsApp Image 2023-09-23 at 9 00 49 AM](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/f4ae882f-d1d0-42d7-9c8f-dd49e8a5e8b0)
 ![WhatsApp Image 2023-09-23 at 9 00 48 AM](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/0622ff42-953f-4454-a576-f0fe295d74d5)
 ![WhatsApp Image 2023-09-23 at 9 00 46 AM](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/7c9c25c8-4f04-4e0d-84c4-dafd84a52bc4)
 ![WhatsApp Image 2023-09-23 at 9 00 46 AM (1)](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/7e02bb0c-4813-4ea5-8bb6-3332bf799211)
