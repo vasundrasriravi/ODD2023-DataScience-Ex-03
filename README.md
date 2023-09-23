@@ -57,8 +57,8 @@ df.kurtosis()
 ## Output:
 ## Superstore.csv
 ![WhatsApp Image 2023-09-23 at 8 52 31 AM](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/42d7fd97-49d0-44be-ac1a-36ee03d7db3e)
+![superstore](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/6135adbe-bade-4ece-8439-356e43d3e93b)
 ![WhatsApp Image 2023-09-23 at 8 58 12 AM](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/c8f114a2-02c8-4b3f-9f93-95ca5e9fc50b)
-![WhatsApp Image 2023-09-23 at 8 58 12 AM](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/b787f7b9-9b58-4602-91ae-47bc84922def)
 ![WhatsApp Image 2023-09-23 at 8 58 53 AM](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/7535b093-55f6-4c00-acb8-e702bbccc0bd)
 ![WhatsApp Image 2023-09-23 at 8 58 58 AM](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/7981bce6-1d26-4580-9ffe-16fcdf0f4dec)
 ![WhatsApp Image 2023-09-23 at 8 59 01 AM](https://github.com/vasundrasriravi/ODD2023-DataScience-Ex-03/assets/119393983/cff5a2e4-1679-41c7-bd86-350b4862a08f)
