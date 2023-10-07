@@ -40,7 +40,7 @@ df.describe()
 import pandas as pd
 import numpy as np
 import seaborn as sns
-df = pd.read_csv("/diabetes.csv")
+df = pd.read_csv("/content/diabetes(1).csv")
 df
 df.info()
 df.isnull().sum()
